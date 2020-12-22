@@ -5,33 +5,33 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excellent Result", "Excellent Result\Excellent Result.csproj", "{F64AB57E-15BC-4E98-B483-52D79874672A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greater Number", "Greater Number\Greater Number.csproj", "{CCE53537-D41C-432B-87F6-EC4E060A8159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greater Number", "Greater Number\Greater Number.csproj", "{CCE53537-D41C-432B-87F6-EC4E060A8159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even or Odd", "Even or Odd\Even or Odd.csproj", "{4DF40276-47CE-4588-92CD-A59001F094CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even or Odd", "Even or Odd\Even or Odd.csproj", "{4DF40276-47CE-4588-92CD-A59001F094CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number 100-200", "Number 100-200\Number 100-200.csproj", "{B1DBB369-0C82-4C16-BEC2-E04B2ADBAA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number 100-200", "Number 100-200\Number 100-200.csproj", "{B1DBB369-0C82-4C16-BEC2-E04B2ADBAA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{92D2948D-5CDC-4D32-8CAB-7B9A2C8637EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{92D2948D-5CDC-4D32-8CAB-7B9A2C8637EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfFigures", "AreaOfFigures\AreaOfFigures.csproj", "{6380A726-E6E7-4FE6-87A5-D01B3414DAAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaOfFigures", "AreaOfFigures\AreaOfFigures.csproj", "{6380A726-E6E7-4FE6-87A5-D01B3414DAAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.csproj", "{7E256E11-B9CA-4392-B55E-92C8F52707D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToyShop", "ToyShop\ToyShop.csproj", "{7E256E11-B9CA-4392-B55E-92C8F52707D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSeconds", "SumSeconds\SumSeconds.csproj", "{A3432CA0-39F4-4953-B7FA-5FE75B614F07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumSeconds", "SumSeconds\SumSeconds.csproj", "{A3432CA0-39F4-4953-B7FA-5FE75B614F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\BonusScore.csproj", "{0948F91E-2372-4A27-A42B-77890DD808A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonusScore", "BonusScore\BonusScore.csproj", "{0948F91E-2372-4A27-A42B-77890DD808A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{BB784AAA-5015-4B4C-8F21-6B7C3C176F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{BB784AAA-5015-4B4C-8F21-6B7C3C176F78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time+15Minutes", "Time+15Minutes\Time+15Minutes.csproj", "{6BBBEC8D-6C08-41F0-909B-FA076B5D5CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time+15Minutes", "Time+15Minutes\Time+15Minutes.csproj", "{6BBBEC8D-6C08-41F0-909B-FA076B5D5CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricConverter", "MetricConverter\MetricConverter.csproj", "{A28AA0DF-F784-4548-BA31-ADE5E9A3F145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricConverter", "MetricConverter\MetricConverter.csproj", "{A28AA0DF-F784-4548-BA31-ADE5E9A3F145}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodzillaVsKong", "GodzillaVsKong\GodzillaVsKong.csproj", "{5752C950-1477-40C1-83C0-290A0098DE3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GodzillaVsKong", "GodzillaVsKong\GodzillaVsKong.csproj", "{5752C950-1477-40C1-83C0-290A0098DE3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSwimmingRecord", "WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{920A655A-DAA2-492E-BA18-3CE6669C318A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldSwimmingRecord", "WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{920A655A-DAA2-492E-BA18-3CE6669C318A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scholarship", "Scholarship\Scholarship.csproj", "{17A8C478-8DE2-470A-AB4A-D126104D9297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scholarship", "Scholarship\Scholarship.csproj", "{17A8C478-8DE2-470A-AB4A-D126104D9297}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
