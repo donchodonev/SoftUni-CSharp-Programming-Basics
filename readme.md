@@ -14,7 +14,7 @@ SoftUni C# Programming Basics - Nov 2020: All tasks with their solutions.
 
 Tasks                            | Exercises
 ---------------------------------|----------
-First Steps in Coding            | [Exercises](https://https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/FirstStepsInCoding)
+First Steps in Coding            | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/FirstStepsInCoding)
 ConditionalStatements 	         | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ConditionalStatements)
 Conditional Statements - Advanced| [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ConditionalStatements-Advanced)
 For Loops                        | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ForLoops)
