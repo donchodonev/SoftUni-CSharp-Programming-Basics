@@ -1,0 +1,1 @@
+These are all the exercise solutions from SoftUni's C# Basics course from Nov 2020, the course I completed prior to completing the C# Basics course from Jan 2021 in which I am oficially enrolled in.
