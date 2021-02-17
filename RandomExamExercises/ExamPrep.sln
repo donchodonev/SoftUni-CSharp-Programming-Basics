@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop", "Stop\Stop.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow", "Arrow\Arrow.csproj", "{39510748-15BB-4FF0-8B48-1339CC3F9604}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axe", "Axe\Axe.csproj", "{22DD46A7-F2B8-4D3D-9246-FB21F9438968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{39510748-15BB-4FF0-8B48-1339CC3F9604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39510748-15BB-4FF0-8B48-1339CC3F9604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39510748-15BB-4FF0-8B48-1339CC3F9604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DD46A7-F2B8-4D3D-9246-FB21F9438968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DD46A7-F2B8-4D3D-9246-FB21F9438968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DD46A7-F2B8-4D3D-9246-FB21F9438968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DD46A7-F2B8-4D3D-9246-FB21F9438968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
