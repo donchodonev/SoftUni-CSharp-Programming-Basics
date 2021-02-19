@@ -9,7 +9,6 @@ SoftUni C# Programming Basics - Nov 2020: All tasks with their solutions.
 - For Loops
 - While Loops
 - Nested Loops
-=========================
 - RandomExamExercises !NB
 
 ## Repository content:
