@@ -20,8 +20,9 @@ Conditional Statements - Advanced| [Exercises](https://github.com/donchodonev/So
 For Loops                        | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ForLoops)
 While Loops                      | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/WhileLoops)
 Nested Loops                     | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/NestedLoops)
+RandomExamExercises              | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/NestedLoops)
 
 
-### [Resources](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources)
+### [Resources](https://csharp-book.softuni.bg)
 
 
