@@ -4,11 +4,13 @@ SoftUni C# Programming Basics - Nov 2020: All tasks with their solutions.
 ## Course content
 
 - First Steps in Coding
-- ConditionalStatements 
+- ConditionalStatements
 - Conditional Statements - Advanced
-- For Loops  
-- While Loops   
-- Nested Loops  
+- For Loops
+- While Loops
+- Nested Loops
+=========================
+- RandomExamExercises !NB
 
 ## Repository content:
 
@@ -20,7 +22,7 @@ Conditional Statements - Advanced| [Exercises](https://github.com/donchodonev/So
 For Loops                        | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ForLoops)
 While Loops                      | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/WhileLoops)
 Nested Loops                     | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/NestedLoops)
-RandomExamExercises              | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/RandomExamExercises)
+RandomExamExercises              | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/RandomPre-ExamExercises)
 
 
 
