@@ -1,5 +1,7 @@
 # Softuni course: [Programming Basics](https://softuni.bg/trainings/3070/programming-basics-with-c-sharp-november-2020)
-SoftUni C# Programming Basics - Nov 2020: All tasks with their solutions.
+# Softuni course: [Programming Basics](https://softuni.bg/trainings/3199/programming-basics-with-csharp-january-2021)
+!NB Exercises of the two course were identical, the one I am enrolled in is the one from Jan 2021
+SoftUni C# Programming Basics - Jan 2021: All tasks with their solutions.
 
 ## Course content
 
@@ -15,13 +17,14 @@ SoftUni C# Programming Basics - Nov 2020: All tasks with their solutions.
 
 Tasks                            | Exercises
 ---------------------------------|----------
-First Steps in Coding            | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/FirstStepsInCoding)
-ConditionalStatements 	         | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ConditionalStatements)
-Conditional Statements - Advanced| [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ConditionalStatements-Advanced)
-For Loops                        | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/ForLoops)
-While Loops                      | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/WhileLoops)
-Nested Loops                     | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/NestedLoops)
-RandomExamExercises              | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/RandomPre-ExamExercises)
+First Steps in Coding            | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/1.FirstStepsInCoding)
+ConditionalStatements 	         | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/2.ConditionalStatements)
+Conditional Statements - Advanced| [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/3.NestedConditionalStatements)
+For Loops                        | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/4.ForLoops)
+While Loops                      | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/5.WhileLoops)
+Nested Loops                     | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/6.NestedLoops)
+RandomExamExercises              | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/blob/master/RandomPre-ExamExercises/Links%20to%20problems.txt)
+Exam 02/20/2021                  | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/7.ExamTasks)
 
 
 
