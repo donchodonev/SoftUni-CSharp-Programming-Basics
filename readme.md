@@ -3,6 +3,11 @@
 !NB Exercises of the two courses were identical, the one I am enrolled in is the one from Jan 2021
 SoftUni C# Programming Basics - Jan 2021: All tasks with their solutions.
 
+<p align="center">
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="Node.JS" width="300" align="center"></a>
+<p>
+
+
 ## Course content
 
 - First Steps in Coding
