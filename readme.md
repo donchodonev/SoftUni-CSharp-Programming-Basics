@@ -1,4 +1,4 @@
-# Softuni course: [Programming Basics](https://softuni.bg/trainings/3199/programming-basics-with-csharp-january-2021)
+# SoftUni course: [Programming Basics](https://softuni.bg/trainings/3199/programming-basics-with-csharp-january-2021)
 
 
 <p align="center">
