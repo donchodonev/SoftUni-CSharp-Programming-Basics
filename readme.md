@@ -2,8 +2,9 @@
 
 
 <p align="center">
-	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="Node.JS" width="300" align="center"></a>
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="300" align="center"></a>
 <p>
+
 
 
 ## Course content
@@ -14,17 +15,22 @@
 - For Loops
 - While Loops
 - Nested Loops
-- RandomExamExercises !NB
+- RandomExamExercises
 
 ## Repository content:
 
-Tasks                               | Exercises
-------------------------------------|----------
-First Steps in Coding               | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/1.FirstStepsInCoding)
-ConditionalStatements 	            | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/2.ConditionalStatements)
-Conditional Statements - Advanced   | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/3.NestedConditionalStatements)
-For Loops                           | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/4.ForLoops)
-While Loops                         | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/5.WhileLoops)
-Nested Loops                        | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/6.NestedLoops)
-RandomExamExercises                 | [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/blob/master/RandomPre-ExamExercises/Links%20to%20problems.txt)
-SoftUni-CSharp-Basic-Exam-02.20.2021| [Exercises](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/7.ExamTasks)
+Tasks                               | Exercise Conditions                                                                                                                                               | Progress
+------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------:
+First Steps in Coding               | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/1.FirstStepsInCoding)		    |![Progress](https://progress-bar.dev/100/?title=done)
+ConditionalStatements 	            | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/2.ConditionalStatements)       |![Progress](https://progress-bar.dev/100/?title=done)
+Conditional Statements - Advanced   | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/3.NestedConditionalStatements) |![Progress](https://progress-bar.dev/100/?title=done)
+For Loops                           | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/4.ForLoops)				    |![Progress](https://progress-bar.dev/100/?title=done)
+While Loops                         | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/5.WhileLoops)				    |![Progress](https://progress-bar.dev/100/?title=done)
+Nested Loops                        | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/6.NestedLoops)				    |![Progress](https://progress-bar.dev/100/?title=done)
+RandomExamExercises                 | [Exercise Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/blob/master/RandomPre-ExamExercises/Links%20to%20problems.txt)    |![Progress](https://progress-bar.dev/100/?title=done)
+
+> **Exam**
+
+|Date				|Exam Tasks' Conditions																										| Progress
+|:-----------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+|20th of Feb. 2021		|[Exam Tasks' Conditions](https://github.com/donchodonev/SoftUni-CSharp-Programming-Basics-Nov-2020/tree/master/TaskConditionResources/7.ExamTasks)|![Progress](https://progress-bar.dev/100/?title=done)
